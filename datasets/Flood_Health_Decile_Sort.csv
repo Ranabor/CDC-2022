@@ -1,4 +1,4 @@
-Census Blockgroup,Children,Elderly,NonWhite,Poverty,Education,English,Elevation,SeaLevelRise,Precipitation,Diabetes,MentalHealth,Asthma,Disability,HousingViolations,Homeless,LivAlone,FloodHealthIndex,Decintiles,FloodHealthIndex_Quintiles
+Census Blockgroup,Children,Elderly,NonWhite,Poverty,Education,English,Elevation,SeaLevelRise,Precipitation,Diabetes,MentalHealth,Asthma,Disability,HousingViolations,Homeless,LivAlone,FloodHealthIndex,Deciles,FloodHealthIndex_Quintiles
 60759809001,0.072957122,8.03785E-10,0.599175,0.356678376,0.996079927,0.150558628,-6,0.182261,0.035771,22.0584,36.52,15.1339,0.133608319,14.1093,17.5025,0.480591116,84.819,10,5
 60750201001,0.079893002,0.124000003,0.651,0.50970601,0.724000036,0.232000002,7.83292,0,0.0205164,16.0115,62.0535,10.5741,0.238000005,10.2406,15.8921,0.522000022,83.486,10,5
 60750117001,0.027149001,0.103000001,0.697,0.378595003,0.862000015,0.171000001,-1.99906,0.106609,0.00532113,1.4068,98.5924,0.8008,0.187000001,39.5622,4.9374,0.635000007,83.4791,10,5
